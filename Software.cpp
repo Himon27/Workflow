@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>//I am Himon lol
+<html>//I am Himon lol software project
 <head>
 <title>FixMyRig - Application</title>
 <style>
